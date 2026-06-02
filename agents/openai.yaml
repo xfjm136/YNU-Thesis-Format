@@ -1,0 +1,7 @@
+interface:
+  display_name: "YNU Thesis Format"
+  short_description: "One-shot audit and formatting for YNU thesis DOCX files"
+  default_prompt: "Use $ynu-thesis-format to apply the official 2024 YNU undergraduate thesis/design formatting rules, back up the original, create a formatting-only adjusted copy, generate an automatic TOC when safe, and report remaining content issues."
+
+policy:
+  allow_implicit_invocation: true

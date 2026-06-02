@@ -1,0 +1,25 @@
+# Generated thesis/report outputs
+*_ynu_format_*
+*_ynu_strict_*
+*.intermediate.*
+
+# Word temporary files
+~$*.docx
+~$*.doc
+*.tmp
+
+# Preview/export artifacts
+*.png
+*.pdf
+*.zip
+
+# Python/PowerShell/runtime noise
+__pycache__/
+*.pyc
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
