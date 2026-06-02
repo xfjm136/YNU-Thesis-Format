@@ -137,14 +137,6 @@ pwsh -NoProfile -ExecutionPolicy Bypass -File $script `
 - 修改公式语义、图表数据、研究结论或学术观点。
 - 补写缺失章节、补充致谢、扩充关键词或替换参考文献。
 
-## GitHub 上传建议
-
-- 仓库根目录建议直接放置 `SKILL.md`、`README.md`、`agents/`、`references/`、`scripts/`。
-- 保留 `.gitignore`，避免把生成的 DOCX、PDF、PNG、JSON/Markdown 报告和临时文件提交到仓库。
-- 上传前确认 `references/` 中的官方规范摘录、整理稿或转换稿是否允许公开发布；如不确定，请移除相关文件或改为链接到官方公开来源。
-- 如计划公开开源，请自行选择并添加合适的 `LICENSE` 文件。未提供许可证时，GitHub 默认不授予他人复制、修改或再分发权限。
-- 不要在 issue、日志或示例中上传包含学生姓名、学号、导师、联系方式、未公开论文内容的隐私文件。
-
 ## 环境要求
 
 - Windows。
