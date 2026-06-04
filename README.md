@@ -1,5 +1,3 @@
-# ynu-thesis-format
-
 云南大学本科生学年论文/毕业论文（设计）DOCX 格式审查与格式辅助调整 skill。该 skill 面向 Codex 使用，内置云南大学 2024 年本科毕业论文（设计）写作规范相关检查流程，并提供 PowerShell/Word COM 辅助脚本。
 
 ## 功能概览
